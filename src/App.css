@@ -1,0 +1,12 @@
+/* Reset dasar */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  padding: 20px;
+}
+
+/* Gaya untuk konten utama */
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
