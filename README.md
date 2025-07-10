@@ -1,4 +1,4 @@
-# NewsApp - React News Portal
+# NewsHub - React News Portal
 
 A responsive news portal built with React, TypeScript, Vite, and Ant Design, fetching real-time data from NewsAPI. This project was developed as part of a frontend technical assessment.
 
